@@ -1,9 +1,9 @@
 {
   "name": "llm-chat-app-template",
-  "description": "A simple chat application powered by Cloudflare Workers AI",
+  "description": "This is a prototype version of ELGEN AI",
   "private": true,
   "cloudflare": {
-    "label": "LLM Chat App",
+    "label": "Elgen",
     "products": [
       "Workers",
       "Workers AI",
